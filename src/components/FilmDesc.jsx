@@ -11,7 +11,7 @@ const FilmDesc = () => {
         </div>
         <div className="FilmDesc__shortInfo__seasons">| seasons: <span>3(5 Episodes)</span></div>
       </div>
-      <div className="FilmDesc__desc"> In 1980s Indiana, a group of young friends witness supernatral forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.</div>
+      <div className="FilmDesc__desc"> In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.</div>
     </div>
   );
 };
